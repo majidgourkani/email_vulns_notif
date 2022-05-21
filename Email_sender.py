@@ -7,7 +7,7 @@ from datetime import datetime
 smtp_host = 'mail.email.co'  # smtp.mail.yahoo.com
 smtp_port = 587
 username = 'something@email.com'
-password = 'Gh22htr!'
+password = '*********'
 sender = 'sender@email.com'
 targets = 'receiver@email.com'
 cc_addrs = 'cc@email.com'
